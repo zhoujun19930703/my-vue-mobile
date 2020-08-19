@@ -20,5 +20,7 @@ module.exports = {
         ]
       }
     }
-  }
+  },
+  // 设置启动时是否校验eslit的代码格式
+  lintOnSave: true
 }
